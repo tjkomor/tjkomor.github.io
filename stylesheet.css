@@ -26,20 +26,6 @@
     color: rgb(20,20,20);
   }
 
-  a:link {
-    font-family: 'Courier', serif;
-    font-size: 16px;
-    font-weight: normal;
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-  }
-
-  a:visited {
-    font-size: 24px;
-    font-weight: normal;
-    color: rgb(0,0,0);
-  }
-
   footer {
     font-size: 12px;
     font-family: 'Courier', serif;
@@ -57,7 +43,7 @@
   }
 
     #portrait_photos {
-    line-height: 10;
+    line-height: 5;
     -webkit-column-count: 5;
     -webkit-column-gap:   10px;
     -moz-column-count:    5;
