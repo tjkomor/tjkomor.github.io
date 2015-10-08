@@ -45,21 +45,21 @@
     #portrait_photos {
     line-height: 5;
     -webkit-column-count: 5;
-    -webkit-column-gap:   10px;
+    -webkit-column-gap:   2px;
     -moz-column-count:    5;
-    -moz-column-gap:      10px;
+    -moz-column-gap:      2px;
     column-count:         5;
-    column-gap:           10px;
+    column-gap:           2px;
   }
 
     #landscape_photos {
     line-height: 10;
     -webkit-column-count: 4;
-    -webkit-column-gap:   10px;
+    -webkit-column-gap:   2px;
     -moz-column-count:    4;
-    -moz-column-gap:      10px;
+    -moz-column-gap:      2px;
     column-count:         4;
-    column-gap:           10px;
+    column-gap:           2px;
   }
 
 </style>
