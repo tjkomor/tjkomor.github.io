@@ -1,0 +1,94 @@
+<style
+  body {
+    font-family: 'Helvetica', serif;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 64px;
+    font-weight: lighter;
+    font-family: 'Arial', sans-serif;
+    color: rgb(0,0,0);
+  }
+
+  h2 {
+    text-align: center;
+    font-weight: lighter;
+    font-family: 'Helvetica', sans-serif;
+    color: rgb(50,50,50);
+  }
+
+  h3, h4, h5, h6 {
+    text-align: left;
+    font-family: 'Helvetica', sans-serif;
+    color: rgb(50,50,50);
+  }
+
+  p {
+    font-size: 16px;
+    font-weight: lighter;
+    text-align: center;
+    font-family: 'Helvetica', sans-serif;
+    color: rgb(20,20,20);
+  }
+
+  a:link {
+    font-family: 'Courier', serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
+
+  a:visited {
+    font-size: 24px;
+    font-weight: normal;
+    color: rgb(0,0,0);
+  }
+
+  footer {
+    font-size: 12px;
+    font-family: 'Courier', serif;
+    text-align: left;
+  }
+
+  .main_background {
+    text-align: center;
+  }
+
+  .athletic_background {
+    background-size: cover !important;
+    background-position: center;
+    background-image: url("../images/background_2.png");
+    background-repeat: no-repeat;
+    height: 100vh;
+    text-align: center;
+  }
+
+  .list {
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Helvetica', sans-serif;
+  }
+
+    #portrait_photos {
+    line-height: 10;
+    -webkit-column-count: 5;
+    -webkit-column-gap:   10px;
+    -moz-column-count:    5;
+    -moz-column-gap:      10px;
+    column-count:         5;
+    column-gap:           10px;
+  }
+
+    #landscape_photos {
+    line-height: 10;
+    -webkit-column-count: 4;
+    -webkit-column-gap:   10px;
+    -moz-column-count:    4;
+    -moz-column-gap:      10px;
+    column-count:         4;
+    column-gap:           10px;
+  }
+
+</style>
